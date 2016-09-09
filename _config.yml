@@ -2,3 +2,4 @@ gems:
   - jekyll-redirect-from
 
 permalink: /article/:title
+paginate: 5
